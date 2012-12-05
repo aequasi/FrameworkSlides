@@ -43,7 +43,7 @@
       <file leaf-file-name="FrameworkSlides.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FrameworkSlides.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="40" selection-start="3277" selection-end="3277" vertical-scroll-proportion="0.29849565">
+            <state line="57" column="36" selection-start="3361" selection-end="3361" vertical-scroll-proportion="0.17656374">
               <folding>
                 <element signature="e#2956#3050#0" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -52,6 +52,15 @@
                 <element signature="tag#div#5;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#6;tag#body#0;tag#html#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slippy-pure.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slippy-pure.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="123" column="21" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -343,14 +352,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/slippy-pure.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="25" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.22452107">
+        <state line="123" column="21" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FrameworkSlides.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="40" selection-start="3277" selection-end="3277" vertical-scroll-proportion="0.29849565">
+        <state line="57" column="36" selection-start="3361" selection-end="3361" vertical-scroll-proportion="0.17656374">
           <folding>
             <element signature="e#2956#3050#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
