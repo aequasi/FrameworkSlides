@@ -103,8 +103,12 @@ em {
     color: #ca0207;
 }
 
+ul {
+	line-height: 27px;
+}
+
 li {
-    font-size: 1.2em;
+    font-size: 1.0em;
 }
 
 li li {
