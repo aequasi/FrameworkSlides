@@ -52,7 +52,7 @@
         <style type="text/css">
 	        .subtitle { font-size: .8em; font-style: italic; }
 
-	        .img { float: right; }
+	        .img { float: right; margin-left: 15px; }
 	        .img .imageTitle { font-size: .7em; font-style: italic; text-align: center; }
 
 	        .img img { width: 100%; }
@@ -69,6 +69,8 @@
 	        .pull-left.half { border-right: 1px solid black; }
 
 	        .fun { font-size: 2em; }
+
+	        #structureImg{ width: 105%; height: 95%; }
         </style>
     </head>
     <body>
@@ -79,7 +81,7 @@
 		        <h6 class="small">& Symfony</h6>
 	        </div>
         </div>
-	    <div class="slide big">
+	    <div class="slide">
 			<h2>Why should you use them?</h2>
 		    <ul>
 			    <li>Organization</li>
@@ -99,7 +101,7 @@
         <div class="slide">
 	        <div class="img">
 		        <div class="imageTitle">Symfony Structure (modified)</div>
-		        <img src="slides/frameworks/sstructure.png" id="structureImg" />
+		        <img src="slides/frameworks/sstructure.png" id="structureImg" class="noscale"/>
 	        </div>
 	        <h2>Organization</h2>
 	        <ul>
@@ -267,6 +269,7 @@ class CampaignController extends Controller
 		        <li>Laravel &ndash; http://laravel.com/ (IRC)</li>
 		        <li>CakePHP &ndash; http://cakephp.org/ (IRC)</li>
 		        <li>CodeIgniter &ndash; http://ellislab.com/codeigniter (IRC)</li>
+		        <li>Kohana &ndash; http://kohanaframework.org/ (IRC)</li>
 	        </ul>
         </div>
 	    <div class="slide">
@@ -277,5 +280,16 @@ class CampaignController extends Controller
 		    <div class="space big"></div>
 		    <h2 class="fun">FUN!</h2>
 	    </div>
+
+        <div class="footer">
+	        <div class="footerContent">
+		        <span class="left">Aaron Scherer</span>
+		        <span class="right"><a href="http://undergroundelephant.com/">Underground Elephant</a></span>
+		        <span class="left">Twitter <a href="http://twitter.com/aequasi">@aequasi</a></span>
+		        <hr class="defloat">
+            </div>
+        </div>
+
+
     </body>
 </html>
